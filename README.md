@@ -9,8 +9,8 @@
 ---
 
 🔭 I’m currently working on:  
-- Realtime Spotify Clone with integrated chat  
-- PHP + MySQL Q&A platform  
+- Uber Clone with chatgpt  
+- Hospital Management System using PHP  
 
 🌱 I’m learning:  
 - Advanced backend architecture  
@@ -26,7 +26,7 @@
 - Instagram: [vishhal.singh.99](https://instagram.com/vishhal.singh.99)  
 
 ⚡ Fun fact:  
-- I started coding with PHP before diving deep into React & Node.js!  
+- I started coding with PHP after diving deep into React & Node.js!  
 
 ---
 
