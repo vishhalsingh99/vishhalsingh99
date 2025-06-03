@@ -9,7 +9,7 @@
 ---
 
 🔭 I’m currently working on:  
-- Uber Clone with chatgpt  
+- Uber Clone using MERN stack   
 - Hospital Management System using PHP  
 
 🌱 I’m learning:  
